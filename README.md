@@ -1,16 +1,8 @@
-# piano_app_gsg
+This is a small and simple Piano app with a variety of instruments to choose from.
+This app is a pretty simple app NOT a full app
 
-A simple MIDI app that plays the piano with diffrenet tones
 
-## Getting Started
+quick app preview:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[preview.webm](https://github.com/AhmedZaeem/piano_app_gsg/assets/91721920/f4c38012-c2c2-46a7-b522-3011a08a3bb7)
